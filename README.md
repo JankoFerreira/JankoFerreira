@@ -23,9 +23,9 @@
 
 ---
 
-## JLF NexWeb Studios
+## NexWeb AI Studios
 
-**JLF NexWeb Studios** creates premium digital presence systems for businesses that need more than a basic website. My work blends sharp front-end design, structured content, automation, and AI-ready foundations so brands are easier for people and intelligent tools to understand.
+**NexWeb AI Studios** creates premium digital presence systems for businesses that need more than a basic website. My work blends sharp front-end design, structured content, automation, and AI-ready foundations so brands are easier for people and intelligent tools to understand.
 
 - Fast, responsive websites with clean visual hierarchy
 - AI-readable structure, metadata, content clarity, and technical SEO thinking
@@ -57,7 +57,7 @@
 
 | Project | Focus | Links |
 | --- | --- | --- |
-| **JLFdev.co.za** | Personal portfolio and JLF NexWeb Studios presence | [Live Site](https://jlfdev.co.za/) · [Repository](https://github.com/JankoFerreira/jlfdev-portfolio) |
+| **JLFdev.co.za** | Personal portfolio and NexWeb AI Studios presence | [Live Site](https://jlfdev.co.za/) · [Repository](https://github.com/JankoFerreira/jlfdev-portfolio) |
 | **LYP SA / lypsa.co.za** | Business website with modern responsive structure | [Live Site](https://lypsa.co.za/) · [Repository](https://github.com/JankoFerreira/lypsa-web) |
 | **Bernina Moot Demo** | Premium demo website for a local retail/service brand | [Live Demo](https://jankoferreira.github.io/Berninamoot-demo-website/) · [Repository](https://github.com/JankoFerreira/Berninamoot-demo-website) |
 | **CSM Website** | Business website build focused on clarity and conversion | [Live Demo](https://jankoferreira.github.io/CSM--Website/) · [Repository](https://github.com/JankoFerreira/CSM--Website) |
@@ -112,6 +112,6 @@
 ---
 
 <p align="center">
-  <strong>JLF NexWeb Studios</strong><br />
+  <strong>NexWeb AI Studios</strong><br />
   AI-Optimized Digital Presence
 </p>
